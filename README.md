@@ -12,5 +12,5 @@
  
 </div>
   <div style="display:inline-block"> 
-   <img align="center" alt="Arthur html" height="40rem" width="60rem" src= https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
+   <img align="center" alt="Arthur html" height="30rem" width="40rem" src= https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white>
   </div>
